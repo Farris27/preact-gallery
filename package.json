@@ -19,7 +19,7 @@
     "better-validator": "^2.1.7",
     "compression": "^1.7.1",
     "gzip-size": "^4.1.0",
-    "html-minifier": "^3.5.8",
+    "html-minifier": "^4.0.0",
     "mongodb": "^3.0.3",
     "node-fetch": "^2.0.0",
     "polka": "^0.3.0",
