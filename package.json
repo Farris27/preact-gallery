@@ -40,6 +40,6 @@
     "rollup-plugin-node-resolve": "^3.0.3",
     "rollup-plugin-postcss": "^1.2.9",
     "rollup-plugin-uglify": "^3.0.0",
-    "webpack-bundle-analyzer": "^2.10.0"
+    "webpack-bundle-analyzer": "^3.6.1"
   }
 }
