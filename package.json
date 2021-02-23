@@ -39,7 +39,7 @@
     "rollup-plugin-commonjs": "^8.3.0",
     "rollup-plugin-node-resolve": "^3.0.3",
     "rollup-plugin-postcss": "^1.2.9",
-    "rollup-plugin-uglify": "^3.0.0",
+    "rollup-plugin-uglify": "^6.0.4",
     "webpack-bundle-analyzer": "^2.10.0"
   }
 }
