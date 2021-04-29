@@ -1,0 +1,22 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: autoprefixer
+    versions:
+    - 10.2.4
+    - 9.8.6
+  - dependency-name: webpack-bundle-analyzer
+    versions:
+    - 4.4.0
+  - dependency-name: rollup-plugin-postcss
+    versions:
+    - 3.1.8
+  - dependency-name: rollup-plugin-uglify
+    versions:
+    - 4.0.0
